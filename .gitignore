@@ -1,0 +1,16 @@
+# Credenciales y secretos — NUNCA subir
+client_secrets.json
+token.json
+.env
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Configuración de editores
+.vscode/
+.idea/
